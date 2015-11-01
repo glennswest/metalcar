@@ -1,0 +1,26 @@
+Kossel Metal Car Carriage
+
+
+Im in the process of building a full metal Kossel 3d Printer. 
+I've already fabbed metal corners, and want to do carriage and effector in metal. 
+This is my current work in progress for the carriage. 
+Its designed for 3 wheels from openbuilds, and a ecentric spacer for tension.
+The car usings a iron cup and a rare earth magnet. 
+The cup is threaded from the rear for a m3 screw. 
+The upwards retangular is designed for mounting of a magnet, 
+or with tape a flag for optical, or to push a switch.
+
+
+BOM and Assembly
+One Car consists of
+
+Qty Description URL
+3 Delrin V Wheel Kit http://openbuildspartstore.com/delrin-v-wheel-kit/
+1 Ecentric Spacer http://openbuildspartstore.com/eccentric-spacer/
+2 Magnetic Can Coming Soon from NCC
+2 Magnets Coming Soon from NCC
+2 M3 Screws For Mounting mag cups
+2 M3 Grub Screws For Mounting Magnets
+
+You need 3 sets of the above for a Kossel Printer
+
