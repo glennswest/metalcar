@@ -26,3 +26,20 @@ You need 3 sets of the above for a Kossel Printer
 
 Thingiverse
 http://www.thingiverse.com/thing:1103967
+
+Using a CNC to Create:
+CNC Workflow:
+    Create part in openscad - Finish with a projection, and export to svg
+    open JScut in your web browser (http://jscut.org)
+    Setup your tool sizes (I use a 1mm bit)
+    Setup your PX to Inch to 26.74
+    Setup how thick you want to cut (6mm for dibond for me)
+    Select the object
+    Generate a outside cut
+    Save to ChilliPeppr via gdrive
+    Switch to http://chilipeppr.com/tinyg
+    Load the gcode using the jscut via gdrive
+    Preview to make sure it looks right
+    Start Cutting
+
+
